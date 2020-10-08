@@ -1,4 +1,4 @@
-# Family secret recipes
+# Mlinarevic family secret recipes
 
 Set of recipes given by my grandma.
 
