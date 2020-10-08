@@ -2,6 +2,7 @@
 
 Set of recipes given by my grandma.
 
-- pizzas (TODO)
+- pizzas
+    - [base](./pizzas/base.md)
 - sauses (TODO)
 - spreads (TODO)
